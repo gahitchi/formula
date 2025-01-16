@@ -1,0 +1,14 @@
+C:\Users\gahia\source\repos\formula_w_threads\bin\Debug\net9.0\formula_w_threads.exe
+C:\Users\gahia\source\repos\formula_w_threads\bin\Debug\net9.0\formula_w_threads.deps.json
+C:\Users\gahia\source\repos\formula_w_threads\bin\Debug\net9.0\formula_w_threads.runtimeconfig.json
+C:\Users\gahia\source\repos\formula_w_threads\bin\Debug\net9.0\formula_w_threads.dll
+C:\Users\gahia\source\repos\formula_w_threads\bin\Debug\net9.0\formula_w_threads.pdb
+C:\Users\gahia\source\repos\formula_w_threads\obj\Debug\net9.0\formula_w_threads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gahia\source\repos\formula_w_threads\obj\Debug\net9.0\formula_w_threads.AssemblyInfoInputs.cache
+C:\Users\gahia\source\repos\formula_w_threads\obj\Debug\net9.0\formula_w_threads.AssemblyInfo.cs
+C:\Users\gahia\source\repos\formula_w_threads\obj\Debug\net9.0\formula_w_threads.csproj.CoreCompileInputs.cache
+C:\Users\gahia\source\repos\formula_w_threads\obj\Debug\net9.0\formula_w_threads.dll
+C:\Users\gahia\source\repos\formula_w_threads\obj\Debug\net9.0\refint\formula_w_threads.dll
+C:\Users\gahia\source\repos\formula_w_threads\obj\Debug\net9.0\formula_w_threads.pdb
+C:\Users\gahia\source\repos\formula_w_threads\obj\Debug\net9.0\formula_w_threads.genruntimeconfig.cache
+C:\Users\gahia\source\repos\formula_w_threads\obj\Debug\net9.0\ref\formula_w_threads.dll
